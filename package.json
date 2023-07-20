@@ -1,0 +1,24 @@
+{
+    "name": "kanel-kysely-custom",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "generate": ""
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@kristiandupont/recase": "^1.2.0",
+        "@types/pg": "^8.10.2",
+        "kanel": "^3.4.2",
+        "kanel-kysely": "^0.1.0",
+        "typescript": "^5.1.6"
+    },
+    "dependencies": {
+        "kysely": "^0.26.1",
+        "pg": "^8.11.1"
+    }
+}
